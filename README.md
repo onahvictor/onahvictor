@@ -3,7 +3,7 @@
     👋 Hi, I'm Onah
 </p>
 <p>I am a Software Engineer 👩🏽‍💻</p>
-<p>🌱 I’m currently learning more about Cloud and Web3</p>
+<p>🌱 I’m currently learning about Cloud and Web3</p>
 
 <!--
 **onahvictor/onahvictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
