@@ -1,2 +1,2 @@
-👋 Hi, I'm Onah
-Computer Engineer Undergrad | Loving Distributed systems | Thinking About The Cloud & Learning GO #BlockchainBeliever
+👋 Hi, I'm Onah Victor Chukwuebuka
+a Computer Engineer Undergrad | Loving Distributed systems | Thinking About The Cloud & Learning GO #BlockchainBeliever
