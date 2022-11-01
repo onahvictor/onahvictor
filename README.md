@@ -7,7 +7,7 @@ I am also an open-source enthusiast and future maintainer. I learned a lot from 
   <img width="400" height="300" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" alt="">
 </p>
  -->
-<b>I love connecting with amazing people so if you want to say hi, I'll be happy to connect!!! but be mindful i am an amazingly boring individual 😄 :)</b>
+<b>I love connecting with amazing people so if you want to say hi, I'll be happy to connect!!! but be mindful I am an amazingly boring individual 😄):</b>
 
 
 
