@@ -1,4 +1,6 @@
-👋 Hi, I'm Victor
-I'm a backend developer with a focus on building clean, scalable systems.
-Mostly working with Go, Docker, PostgreSQL, and AWS.
-Currently exploring distributed systems, clean architecture, and automation.
+<div align="center">
+
+👋 Hi, I'm Victor  I'm a Backend Software Engineer building scalable and robust applications with expertise in Go. Driving efficiency
+improvements through innovative solutions. Currently exploring distributed systems and automation.
+
+</div>
